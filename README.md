@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 29/04/24
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,9 +59,15 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+![Xaxis](https://github.com/Nandakesore0210/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149365088/7a7cacc9-b503-4c6e-abc9-303a458726d0)
+![Yaxis](https://github.com/Nandakesore0210/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149365088/e9502f78-f87e-47d2-b70e-e19206b81c6a)
+![Zaxis](https://github.com/Nandakesore0210/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149365088/7e66ca30-614a-44fe-8127-e93457a19520)
+![complete](https://github.com/Nandakesore0210/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149365088/5263b048-a949-4032-8ecd-e2f5ebcbd9f0)
+![Screenshot (150)](https://github.com/Nandakesore0210/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149365088/ef05325b-4b6b-4308-86f5-171f4b5a305a)
 
-### Name: 
-### Register Number:
+### Name: Vinnush kumar L S
+### Register Number: 212223230244
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
+
