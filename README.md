@@ -59,11 +59,16 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![Xaxis](https://github.com/Nandakesore0210/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149365088/7a7cacc9-b503-4c6e-abc9-303a458726d0)
-![Yaxis](https://github.com/Nandakesore0210/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149365088/e9502f78-f87e-47d2-b70e-e19206b81c6a)
-![Zaxis](https://github.com/Nandakesore0210/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149365088/7e66ca30-614a-44fe-8127-e93457a19520)
-![complete](https://github.com/Nandakesore0210/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149365088/5263b048-a949-4032-8ecd-e2f5ebcbd9f0)
-![Screenshot (150)](https://github.com/Nandakesore0210/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/149365088/ef05325b-4b6b-4308-86f5-171f4b5a305a)
+![image](https://github.com/vinnush147/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147139234/9bc12b88-9d0a-4f8a-9e05-0abbff563cbb)
+
+![image](https://github.com/vinnush147/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147139234/c939ad76-ac23-4199-a063-a676244a050c)
+
+![image](https://github.com/vinnush147/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147139234/4e6581a7-5523-4354-a5ee-16f171327182)
+
+![image](https://github.com/vinnush147/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147139234/cf88b131-6b86-406c-a5f5-fbbbb34b3ea5)
+
+![image](https://github.com/vinnush147/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/147139234/1970a9ba-a312-4bb1-b3ac-cc1bfe27eff5)
+
 
 ### Name: Vinnush kumar L S
 ### Register Number: 212223230244
